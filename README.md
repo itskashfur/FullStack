@@ -126,4 +126,39 @@ Start small and scale up:
 |---------------|------------|
 | 📝 To-Do App | Flask + SQLite |
 | 💬 Chat App | FastAPI + React + WebSockets |
-| 🛒 E-com
+| 🛒 E-commerce Website | React + FastAPI + MongoDB |
+| 📸 Portfolio Website | React + Tailwind CSS |
+| 🎓 Learning Management System | FastAPI + React + PostgreSQL |
+
+---
+
+## 💼 11. Get Job Ready
+- Write clean, modular code following MVC patterns.
+- Create a strong GitHub portfolio.
+- Deploy real-world projects publicly.
+- Learn basic system design and scalability concepts.
+
+---
+
+## 🚀 Final Tech Stack Example
+
+| Layer | Technology |
+|-------|-------------|
+| Frontend | React + Tailwind CSS |
+| Backend | FastAPI (Python) |
+| Database | PostgreSQL / MongoDB |
+| Auth | JWT / OAuth |
+| Deployment | Docker + Render / AWS |
+| Version Control | Git + GitHub |
+
+---
+
+## ✨ Final Notes
+> Becoming a full-stack developer is not about learning everything at once — it’s about building consistently, step by step.  
+> Start small, stay consistent, and keep building real-world projects!
+
+**Created by:** [Kashfur Rahman](https://github.com/)  
+**Language Focus:** Python 🐍  
+**Last Updated:** 2025
+
+---
