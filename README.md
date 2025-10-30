@@ -1,4 +1,4 @@
-# 🧭 Full Stack Developer Roadmap (Python Backend)
+# 🧭 Full Stack Developer Roadmap (Through Python Backend)
 
 This roadmap will guide you from a **beginner to professional full-stack developer**, focusing on **Python** for backend development.
 
@@ -157,7 +157,7 @@ Start small and scale up:
 > Becoming a full-stack developer is not about learning everything at once — it’s about building consistently, step by step.  
 > Start small, stay consistent, and keep building real-world projects!
 
-**Created by:** [Kashfur Rahman](https://github.com/)  
+**Created by:** [Kashfur Rahman](https://github.com/itskashfur)  
 **Language Focus:** Python 🐍  
 **Last Updated:** 2025
 
