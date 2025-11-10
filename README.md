@@ -162,4 +162,4 @@ Start small and scale up:
 **Last Updated:** 2025
 
 ---
-Connect with me : [INSTAGRAM](https://instagram.com/itskashfur) | [TWITTER](https://www.twitter.com/itskashfur) | [LINKEDIN](https://www.linkedin.com/user/itskashfur)
+Connect with me : [INSTAGRAM](https://instagram.com/itskashfur) | [TWITTER](https://www.twitter.com/itskashfur) | [LINKEDIN](https://www.linkedin.com/in/itskashfur/)
