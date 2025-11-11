@@ -1,7 +1,1 @@
-# Stunning HTML & CSS Card Animation
-
-![Thumbnail](thumbnail.png)
-
-Full tutorial here: https://www.youtube.com/watch?v=45mnmy2JUl0
-
-Sliding images (not in repo): https://wirestock.io/james591
+<img width="1280" height="720" alt="thumbnail" src="https://github.com/user-attachments/assets/16da83ea-2068-465a-be02-5be5c4dcebf8" />
