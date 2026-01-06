@@ -11,7 +11,7 @@ This roadmap will guide you from a **beginner to professional full-stack develop
 - Understand semantic HTML.
 - Build 2–3 simple static web pages.
 
-### 🎨 CSS (Design)
+### 🎨 CSS(Cascading Style Sheets) (Design)
 - Learn selectors, box model, flexbox, and grid.
 - Practice responsive design using media queries.
 - Explore Tailwind CSS or Bootstrap.
