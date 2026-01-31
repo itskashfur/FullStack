@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ray Romano Contracting</title>
+
+    <style>
+        /* ================= RESET ================= */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+        }
+
+        /* ================= HEADER ================= */
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 15px 60px;
+            z-index: 100;
+        }
+
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            color: white;
+            font-size: 22px;
+            letter-spacing: 2px;
+            font-family: "Arial Black", sans-serif;
+            
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-left: 25px;
+            font-size: 16px;
+        }
+
+        nav a:hover {
+            text-decoration: none;
+        }
+
+        /* ================= BACKGROUND SECTIONS ================= */
+        .bg-section {
+            height: 100vh;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            position: relative;
+            display: flex;
+            align-items: center;
+            padding: 80px;
+            color: white;
+        }
+
+        .bg-section::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.6);
+        }
+
+        .bg-content {
+            position: relative;
+            max-width: 600px;
+        }
+
+        .bg-content h1 {
+            font-size: 42px;
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+        }
+
+        .bg-content p {
+            font-size: 18px;
+            background: rgba(255, 255, 255, 0.15);
+            padding: 20px;
+            border-left: 5px solid white;
+        }
+
+        /* Background Images */
+        .bg1 {
+            background-image: url("https://images.hdqwalls.com/wallpapers/porsche-gt3-rs4-4k-c7.jpg");
+        }
+
+        .bg2 {
+            background-image: url("https://images.hdqwalls.com/wallpapers/2027-ford-mustang-dark-horse-sc-track-pack-23.jpg");
+        }
+
+        .bg3 {
+            background-image: url("https://images.hdqwalls.com/wallpapers/nissan-gtr-legendary-performance-yr.jpg");
+        }
+
+        /* ================= CONTENT SECTIONS ================= */
+        section {
+            padding: 100px 80px;
+            background: #f4f4f4;
+        }
+
+        section h2 {
+            font-size: 32px;
+            margin-bottom: 20px;
+        }
+
+        section p {
+            font-size: 18px;
+            max-width: 900px;
+        }
+
+        /* ================= FOOTER ================= */
+        footer {
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 25px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <div class="nav">
+            <div class="logo">KC</div>
+            <nav>
+                <a href="#home">Home</a>
+                <a href="#login">Login</a>
+                <a href="#gallery">Gallery</a>
+                <a href="#contact">Contact Us</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- BACKGROUND SECTION 1 -->
+    <div class="bg-section bg1" id="home">
+        <div class="bg-content">
+            <h1>KRAZY CARS CONTRACTING</h1>
+            <p>
+                We Modify Cars and Provide Top-notch Services for Car Enthusiasts.
+            </p>
+        </div>
+    </div>
+
+    <!-- CONTENT SECTION -->
+    <section>
+        <h2>About Us</h2>
+        <p>
+            Welcome to Krazy Cars Contracting, where passion meets precision in
+            automotive modifications. With over 25 years of experience, we specialize
+            in transforming vehicles to reflect the unique style and performance
+            desires of our clients. From sleek city cars to powerful muscle machines, our expert team is dedicated to delivering exceptional craftsmanship and unparalleled service.
+        </p>
+    </section>
+
+    <!-- BACKGROUND SECTION 2 -->
+    <div class="bg-section bg2" id="gallery">
+        <div class="bg-content">
+            <h1>Our Work</h1>
+            <p>
+                Explore our portfolio of stunning car modifications, showcasing our
+                commitment to quality and innovation in every project we undertake.
+            </p>
+        </div>
+    </div>
+
+    <!-- CONTENT SECTION -->
+    <section>
+        <h2>Why Choose Us</h2>
+        <p>
+            At Krazy Cars Contracting, we pride ourselves on our attention to detail,
+            customer-centric approach, and a deep understanding of automotive trends.
+            Our team of skilled professionals works closely with clients to ensure
+            every modification meets their vision and exceeds expectations. Choose us
+            for your next car project and experience the difference that passion and
+            expertise can make.
+        </p>
+    </section>
+
+    <!-- BACKGROUND SECTION 3 -->
+    <div class="bg-section bg3" id="contact">
+        <div class="bg-content">
+            <h1>Contact Us</h1>
+            <p>
+                Reach out to us for inquiries or to schedule a consultation. We're excited to
+                help you bring your automotive dreams to life!
+            </p>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2026 Krazy Cars Contracting. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
