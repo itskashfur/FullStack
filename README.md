@@ -159,8 +159,8 @@ Start small and scale up:
 
 **Created by:** [Kashfur Rahman](https://github.com/itskashfur)  
 **Language Focus:** Python 🐍  
-**Created:** 2025
-**Last Updated:** 2025
+**Created:** 2025 <br>
+**Last Updated:** Feb 2026
 
 ---
 Connect with me : [INSTAGRAM](https://instagram.com/itskashfur) | [TWITTER](https://www.twitter.com/itskashfur) | [LINKEDIN](https://www.linkedin.com/in/itskashfur/)
